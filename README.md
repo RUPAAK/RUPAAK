@@ -4,3 +4,5 @@ I'm Rupak all the way from Nepal, and currently working as NodeJs Backend Develo
 - :seedling: I’m currently working as Backend Developer.
 <!-- - :information_desk_person:: portfolio: https://utsabaryal.com.np/ -->
 - :mailbox: How to reach me: Email: rupakt525@gmail.com
+
+Teah II am familiar: HTML/CSS, JAVASCRIPT/TYPESCRIPT, REACT, NODEJS, AWS, MONGODB
