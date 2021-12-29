@@ -1,1 +1,1 @@
-![alt text](https://imgr.search.brave.com/3tF7rZ3dXu3BEA3LiSwj4GMgP6S17Ae4RCN0DzFLK0s/fit/1150/1146/ce/1/aHR0cHM6Ly92aWdu/ZXR0ZS53aWtpYS5u/b2Nvb2tpZS5uZXQv/aWNlYWdlL2ltYWdl/cy83Lzc3L1NjcmF0/JTI3c19BY29ybl8z/ZC5wbmcvcmV2aXNp/b24vbGF0ZXN0P2Ni/PTIwMTkwNDMwMTYz/MTU1)
+![alt text](https://imgr.search.brave.com/B6m_NrOy9lXq6g-ceF90UPo9iVtBwHdvETPR2NU23-w/fit/1200/1200/ce/1/aHR0cDovL3d3dy5o/ZHdhbGxwYXBlcnNm/cmVlZG93bmxvYWQu/Y29tL3VwbG9hZHMv/bGFyZ2UvY2FydG9v/bnMvaWNlLWFnZS1z/Y3JhdC1zcXVpcnJl/bC13YWxscGFwZXIu/anBn)
