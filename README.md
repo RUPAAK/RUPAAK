@@ -1,2 +1,2 @@
 <img slt="jerry" src="https://imgr.search.brave.com/jk7wYgCIb5K4uCSw-SBgQW5Dgs62e2M2e48gvHSJBg4/fit/220/220/ce/1/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/aW1hZ2VzL2YxNzY1/OWNhNDM4YTM3OThh/YjExMjZkZDY1NTdl/ZTY2L3Rlbm9yLmdp/Zg.gif"/>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://imgr.search.brave.com/tj4bJV9TQvUqqQ6_i1D5Ns1vqOUxBoJXCE-FhiKZC_4/fit/672/589/ce/1/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC85Yy9jNS83NC85/Y2M1NzQxYmMwYzRl/MDNhZGY4ZGJhMmQx/MDEzNzU1Zi5qcGc" align="right"/>
