@@ -16,5 +16,4 @@ Some languages and tools I am familiar with:
 - :information_desk_person:: portfolio: https://utsabaryal.com.np/
 - :mailbox: How to reach me: Email: utsab.aryal1@gmail.com
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-![Utsab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupaak&count_private=true)
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+![Rupaak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupaak&count_private=true)
