@@ -15,12 +15,6 @@ Some languages and tools I am familiar with:
 - :seedling: I’m currently working as Mid-level Flutter Application Engineer.
 - :information_desk_person:: portfolio: https://utsabaryal.com.np/
 - :mailbox: How to reach me: Email: utsab.aryal1@gmail.com
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/utsab1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/utsab1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/utsabaryal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/utsab9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/utsab.aryal/)
- [![trophy](https://github-profile-trophy.vercel.app/?username=utsab1)](https://github.com/ryo-ma/github-profile-trophy)
-<!--[![Utsab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=utsab1)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsab1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 ![Utsab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupaak&count_private=true)
-![Profile views](https://gpvc.arturio.dev/utsab1)
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
